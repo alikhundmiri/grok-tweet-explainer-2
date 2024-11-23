@@ -1,6 +1,6 @@
 # Privacy Policy for Grok Tweet Explainer
 
-Last Updated: April 2024
+Last Updated: 22nd November 2024
 
 ## Overview
 Grok Tweet Explainer is a Chrome extension that helps users get AI explanations for tweets using Grok AI. We are committed to protecting your privacy and being transparent about our data practices.
